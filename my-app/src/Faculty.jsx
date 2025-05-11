@@ -58,7 +58,7 @@ export default function Faculty() {
     },
     {
       id: 5,
-      name: "Adham ashraf",
+      name: "Adham Khaled",
       major: "Mecha",
       status: "Rejected",
       comment: "Incomplete application",
